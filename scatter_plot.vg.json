@@ -5,7 +5,7 @@
   "background":"transparent",
   "data": {
     "name": "energyData",
-    "url": "https://raw.githubusercontent.com/nabeelfahim/visualisation2/main/total_energy_consumption.csv",
+    "url": "https://raw.githubusercontent.com/nabeelfahim/visualisation2/main/new_total_energy_consumption.csv",
     "format": {"type": "csv"}
   },
   "transform": [
